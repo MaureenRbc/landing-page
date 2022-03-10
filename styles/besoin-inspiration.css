@@ -1,0 +1,12 @@
+#besoin-inspiration{
+	height: 10vh;
+	color: rgb(243, 197, 180);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.margin{
+	margin: 0;
+}
