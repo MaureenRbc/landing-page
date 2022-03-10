@@ -1,0 +1,9 @@
+.cards{
+	display: flex;
+}
+
+.image-card{
+	width: 96%;
+	height: 50%;
+	object-fit: cover;
+}
